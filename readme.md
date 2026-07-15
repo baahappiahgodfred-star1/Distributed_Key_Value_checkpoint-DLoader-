@@ -56,3 +56,6 @@ user:106 → { "name": "Frank" }
 
 This project demonstrates the core principles of distributed systems using a simple Node.js simulation.
 It provides a simplified understanding of how modern distributed databases and cloud systems work internally.
+
+## Author
+**Godfred Appiah Baah**
